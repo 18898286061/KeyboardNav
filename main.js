@@ -30,7 +30,6 @@ function init() {
         'p': 'panda.tv',
         'a': 'amazon.com',
         'd': 'douban.com',
-        'j': 'jd.com',
         'm': 'meituan.com'
     }
     // 取出localStorage 中的 zzz 对应的hash
